@@ -8,6 +8,8 @@ API-проекты с использованием синхронного выз
 API-проекты с использованием служебной шины Azure: Mango.Services.OrderAPI, Mango.Services.Email, Mango.Services.PaymentAPI
 Integration/MangoMessageBus - посредник между сообщениями между проектами и шиной.
 
+В ветке Gateway Ocelot - используется шлюз Gateway Ocelot для микросервисов.
+
 Для запуска:
 1. git clone https://github.com/adichev17/MangoRestarauntCoffee.git
 2. Провести миграции в БД(add-migration init, update-database) для каждого из проектов в папке Services.
