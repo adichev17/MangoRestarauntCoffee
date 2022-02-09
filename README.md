@@ -12,5 +12,5 @@ Integration/MangoMessageBus - посредник между сообщениям
 
 Для запуска:
 1. git clone https://github.com/adichev17/MangoRestarauntCoffee.git
-2. Провести миграции в БД(add-migration init, update-database) для каждого из проектов в папке Services.
+2. Провести миграции в БД(update-database) для каждого из проектов в папке Services.
 3. Настроить мультизапуск для всех проектов.
