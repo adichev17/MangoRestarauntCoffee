@@ -1,16 +1,33 @@
-# MangoRestarauntCoffee
+![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)]
+# Project Title
 
-Реализация продуктового магазина с использованием микросервисной архитектуры, служебной шины Azure .NET 6.
-В качестве оснвого web-проекта выступает Mango.Web. ASP.NET Core MVC.
+Онлайн магаин товаров
 
-API-проекты с использованием синхронного вызова: Mango.Services.CouponAPI, Mango.Services.ProductAPI, Mango.Services.ShoppingCartAPI, Mango.Services Identity.
+## Description
 
-API-проекты с использованием служебной шины Azure: Mango.Services.OrderAPI, Mango.Services.Email, Mango.Services.PaymentAPI
-Integration/MangoMessageBus - посредник между сообщениями между проектами и шиной.
+Реализация продуктового магазина с использованием микросервисной архитектуры, служебной шины Azure .NET 6
 
-В ветке Gateway Ocelot - используется шлюз Gateway Ocelot для микросервисов.
+## Stack
 
-Для запуска:
-1. git clone https://github.com/adichev17/MangoRestarauntCoffee.git
-2. Провести миграции в БД(update-database) для каждого из проектов в папке Services.
-3. Настроить мультизапуск для всех проектов.
+- .NET 6.
+- ASP.NET Web-Api, MVC
+- Azure Service Bus
+- Identity Server 6
+- Entity Framework Core 6
+- MS Sql Server
+
+## Detalization
+
+* В качестве оснвого web-проекта выступает Mango.Web. ASP.NET Core MVC.
+* API-проекты с использованием синхронного вызова: Mango.Services.CouponAPI, Mango.Services.ProductAPI, Mango.Services.ShoppingCartAPI, Mango.Services Identity.
+* API-проекты с использованием служебной шины Azure: Mango.Services.OrderAPI, Mango.Services.Email, Mango.Services.PaymentAPI
+* Integration/MangoMessageBus - посредник между сообщениями между проектами и шиной.
+
+## Getting Started
+
+### Installing
+
+```
+git clone https://github.com/adichev17/MangoRestarauntCoffee.Microservices.git
+```
+
