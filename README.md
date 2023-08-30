@@ -1,7 +1,7 @@
 ![Build Status](https://github.com/adichev17/Patterns/workflows/.NET%20Core%20Desktop/badge.svg)]
 # Project Title
 
-Онлайн магаин товаров
+Онлайн магазин товаров
 
 ## Description
 
