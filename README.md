@@ -1,8 +1,10 @@
-![Build Status](https://github.com/adichev17/MangoRestarauntCoffee.Microservices/workflows/Actions/badge.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/adichev17/MangoRestarauntCoffee.Microservices)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![views](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-MangoRestarauntCoffee.Microservices/views.svg)
+![clones](https://raw.githubusercontent.com/adichev17/traffic-all-repositories/traffic/traffic-MangoRestarauntCoffee.Microservices/clones.svg)
+![Build Status](https://github.com/adichev17/MangoRestarauntCoffee.Microservices/workflows/Actions/badge.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/adichev17/MangoRestarauntCoffee.Microservices)
 
 # Project Title
 
